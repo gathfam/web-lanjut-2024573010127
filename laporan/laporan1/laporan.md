@@ -10,10 +10,11 @@
 Tuliskan ringkasan singkat tentang isi laporan ini dan tujuan Anda membuat laporan.
     Pengenalan framework Laravel, definisi, komponen utama, dan struktur framework. Serta penjelasa mengenai Sistem MVC (model, view, controller) melalui diagram.
 
----
+---g
 
 ## 1. Pendahuluan
     Laravel adalah framework PHP open-source yang sering dipakai untuk memudahkan dan mempercepat pengenmbangan web. Framework ini menggunakan pola arsitektur MVC (Model, View, Controller) untuk membagi tampilan website, logika website, dan data di dalam website. Laravel juga merupakan framework dengan sifat opionionated, yang dimana framework ini sudah menyediakan struktur dan fitur-fitur siap pakai yang membuat kode antar projek menjadi konsisten. Pengembang yang menggunakan framework ini untuk membangun berbagai macam aplikasi seperti: aplikasi manajemen, platform e-commerce, platform pendidikan, blog, dll. 
+
 
 ---
 
